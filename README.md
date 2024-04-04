@@ -12,7 +12,7 @@ The repository covers a range of machine learning concepts, including but not li
 + [Naive Bayes](NaiveBayes.ipynb): Explore the basics of Naive Bayes classification.
 + [Logistic Regression](LogisiticRegression.ipynb): Learn the logistic regression model and its applications.
 + [SVM (Support Vector Machines)](SupportVectorMachine.ipynb): Gain insights into Support Vector Machines for classification.
-+ [Neural Networks with Tensorflow](): Dive into the world of neural networks using Tensorflow.
++ [Neural Networks with Tensorflow](NeuralNetworks.ipynb): Dive into the world of neural networks using Tensorflow.
 
 ### Data Source
 
