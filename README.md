@@ -6,13 +6,13 @@ Welcome to the Machine Learning Fundamentals repository! This collection of Jupy
 
 The repository covers a range of machine learning concepts, including but not limited to:
 
-+ [Empirical Rule](JupyterNotebooks\EmpericalRule.ipynb): Exploring statistical concepts through the empirical rule.
-+ [Correlation Coefficient](JupyterNotebooks\CoorelationCoefficient.ipynb): Analyzing relationships between variables using correlation coefficients.
-+ [KNN (K-Nearest Neighbors)](JupyterNotebooks\KNearestNeighbor.ipynb): Implementing and understanding the KNN algorithm for classification and regression tasks.
-+ [Naive Bayes](JupyterNotebooks\NaiveBayes.ipynb): Explore the basics of Naive Bayes classification.
-+ [Logistic Regression](JupyterNotebooks\LogisiticRegression.ipynb): Learn the logistic regression model and its applications.
-+ [SVM (Support Vector Machines)](JupyterNotebooks\SupportVectorMachine.ipynb): Gain insights into Support Vector Machines for classification.
-+ [Neural Networks with Tensorflow](JupyterNotebooks\NeuralNetworks.ipynb): Dive into the world of neural networks using Tensorflow.
++ [Empirical Rule](JupyterNotebooks/EmpericalRule.ipynb): Exploring statistical concepts through the empirical rule.
++ [Correlation Coefficient](JupyterNotebooks/CoorelationCoefficient.ipynb): Analyzing relationships between variables using correlation coefficients.
++ [KNN (K-Nearest Neighbors)](JupyterNotebooks/KNearestNeighbor.ipynb): Implementing and understanding the KNN algorithm for classification and regression tasks.
++ [Naive Bayes](JupyterNotebooks/NaiveBayes.ipynb): Explore the basics of Naive Bayes classification.
++ [Logistic Regression](JupyterNotebooks/LogisiticRegression.ipynb): Learn the logistic regression model and its applications.
++ [SVM (Support Vector Machines)](JupyterNotebooks/SupportVectorMachine.ipynb): Gain insights into Support Vector Machines for classification.
++ [Neural Networks with Tensorflow](JupyterNotebooks/NeuralNetworks.ipynb): Dive into the world of neural networks using Tensorflow.
 
 ### Data Source
 
