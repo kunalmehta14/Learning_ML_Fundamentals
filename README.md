@@ -6,13 +6,13 @@ Welcome to the Machine Learning Fundamentals repository! This collection of Jupy
 
 The repository covers a range of machine learning concepts, including but not limited to:
 
-+ [Empirical Rule](EmpericalRule.ipynb): Exploring statistical concepts through the empirical rule.
-+ [Correlation Coefficient](CoorelationCoefficient.ipynb): Analyzing relationships between variables using correlation coefficients.
-+ [KNN (K-Nearest Neighbors)](KNearestNeighbor.ipynb): Implementing and understanding the KNN algorithm for classification and regression tasks.
-+ [Naive Bayes](NaiveBayes.ipynb): Explore the basics of Naive Bayes classification.
-+ [Logistic Regression](LogisiticRegression.ipynb): Learn the logistic regression model and its applications.
-+ [SVM (Support Vector Machines)](SupportVectorMachine.ipynb): Gain insights into Support Vector Machines for classification.
-+ [Neural Networks with Tensorflow](NeuralNetworks.ipynb): Dive into the world of neural networks using Tensorflow.
++ [Empirical Rule](JupyterNotebooks\EmpericalRule.ipynb): Exploring statistical concepts through the empirical rule.
++ [Correlation Coefficient](JupyterNotebooks\CoorelationCoefficient.ipynb): Analyzing relationships between variables using correlation coefficients.
++ [KNN (K-Nearest Neighbors)](JupyterNotebooks\KNearestNeighbor.ipynb): Implementing and understanding the KNN algorithm for classification and regression tasks.
++ [Naive Bayes](JupyterNotebooks\NaiveBayes.ipynb): Explore the basics of Naive Bayes classification.
++ [Logistic Regression](JupyterNotebooks\LogisiticRegression.ipynb): Learn the logistic regression model and its applications.
++ [SVM (Support Vector Machines)](JupyterNotebooks\SupportVectorMachine.ipynb): Gain insights into Support Vector Machines for classification.
++ [Neural Networks with Tensorflow](JupyterNotebooks\NeuralNetworks.ipynb): Dive into the world of neural networks using Tensorflow.
 
 ### Data Source
 
@@ -22,6 +22,15 @@ The repository covers a range of machine learning concepts, including but not li
 ### Data Analysis and Jupyter Notebooks Structure
 
 Each Jupyter notebook in this repository is dedicated to a specific machine learning concept. It provides a comprehensive exploration of the theory behind the concept along with practical examples.
+
+### Docker Compose Configuration
+
+To easily set up the testing/development environment, a Docker Compose setup is provided, which includes the following:
+
++ The latest TensorFlow image
++ CUDA toolkit and cuDNN libraries to access the GPU for training ML models
++ Other data science-related libraries such as NumPy, pandas, Matplotlib, scikit-learn, etc.
++ Jupyter Notebook server to edit and manage the ML notebooks.
 
 ### Contributions and Community
 
