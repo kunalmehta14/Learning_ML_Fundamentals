@@ -15,15 +15,14 @@ services:
       dockerfile: Dockerfile
     ports:
       - "9090:8888"
+    env_file:
+      - environment.env
     deploy:
       resources:
         reservations:
           devices:
             - count: all
               capabilities: [gpu]
-    environment:
-      JUPYTER_TOKEN: dasfdsafawesr324dsdasfsdf
-      JUPYTER_ENABLE_LAB: yes
     volumes:
       - ./JupyterNotebooks:/opt/JupyterNotebooks
     networks:

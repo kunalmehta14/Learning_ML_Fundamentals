@@ -32,6 +32,8 @@ To easily set up the testing/development environment, a Docker Compose setup is 
 + Other data science-related libraries such as NumPy, pandas, Matplotlib, scikit-learn, etc.
 + Jupyter Notebook server to edit and manage the ML notebooks.
 
+Note: Jupyter Notebook requires setting up a token to access the server over port 9090. To update the token, use the "environment.env.template" file. Add a custom token to it and save the file as "environment.env" at the same level of the directory as the Docker Compose file.
+
 ### Contributions and Community
 
 I've maintained this repository as a personal documentation of my machine learning journey, and I'm excited to share it with the community. If you find areas for improvement, have suggestions, or want to contribute, please feel free to open issues or pull requests.
